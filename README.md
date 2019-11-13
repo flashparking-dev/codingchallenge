@@ -23,7 +23,7 @@ An interface needs to exist to actually display the vehicle count for the locati
 - The interface will be browser-based, assume the display will be running a Chrome window.
 
 
-## Delivering Your Solution
+### Delivering Your Solution
 To get started, fork this repository into your own git repo.
 
 When you are done and ready for review, simply email us a link to your repo and our team will review your solution.
